@@ -1,0 +1,15 @@
+img {
+  width: 20%;
+}
+#ow_image{
+  width: 30%;
+}
+
+.Lightcoral_font {
+  color:Lightcoral;
+}
+p, h1, h2{
+font-family: 'Barlow', sans-serif;}
+.boxed {
+  border: 10px solid white ;
+}
